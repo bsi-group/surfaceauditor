@@ -8,6 +8,8 @@ Developed by Daniel Compton
 
 https://github.com/commonexploits/
 
+Released under AGPL see LICENSE for more information
+
 
 Requirements
 ========
@@ -45,6 +47,13 @@ Screen Shots
 
 ![](http://wwww.info-assure.co.uk/wp-content/uploads/2016/04/surfaceaudtor.png)
 
+
+Limitations
+========
+
+* Only runs of Microsoft Surface Tablets with firmware tools installed
+* Should not be used as the only means of vulnerability assessment of the device
+* Use at own risk within test environment first
 
 Change Log
 ========
