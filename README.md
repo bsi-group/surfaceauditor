@@ -1,2 +1,3 @@
-# surfaceauditor
-Microsoft Surface Tablet Security Auditor Scripts
+Surface Auditor 
+===================
+Microsoft Surface Tablet Security Auditor Script
