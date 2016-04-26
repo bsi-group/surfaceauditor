@@ -38,7 +38,7 @@ Configuration and Auditing Guide
 ========
 A full configuration and auditing paper can be downloaded for the Microsoft Surface Pro Tablet below
 
-http://www.info-assure.co.uk/microsoft-surface-security-configuration-and-auditing-guide
+http://www.info-assure.co.uk/microsoft-surface-security-configuration-auditing-guide/
 
 Screen Shots
 ========
