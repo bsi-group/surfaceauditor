@@ -1,7 +1,7 @@
 Surface Auditor
 ========
 
-This security auditing script is intended to be run on Microsoft Surface Pro 3 tablet devices. The script will collect the currently configured UEFI security settings and give recommendtions to hardening the security of these settings.
+This security auditing script is intended to be run on Microsoft Surface Pro 3 tablet devices. The script will collect the currently configured UEFI security settings and give the recommended security settings to be applied.
 
 
 Developed by Daniel Compton
@@ -30,7 +30,7 @@ The PowerShell scripts runs on the Surface Tablet device itself.
 Features
 ========
 
-* Detects currently configuration of the UEFI security related settings
+* Detects the current configuration of the UEFI security related settings
 * Recommends the best security configuration for the UEFI settings
 
 
