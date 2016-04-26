@@ -24,7 +24,7 @@ How To Use
 
 The PowerShell scripts runs on the Surface Tablet device itself.
 
-    ./surfaceauditor.ps1
+    ./surface_auditor.ps1
 
 
 Features
