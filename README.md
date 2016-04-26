@@ -30,8 +30,9 @@ The PowerShell scripts runs on the Surface Tablet device itself.
 Features
 ========
 
-* Passively detects the DTP mode of a Cisco switch for VLAN hopping
-* Reports if switch is in Default mode, trunk, dynamic, auto or access mode
+* Detects currently configuration of the UEFI security related settings
+* Recommends the best security configuration for the UEFI settings
+
 
 Configuration and Auditing Guide
 ========
